@@ -13,3 +13,4 @@ chatGPT로 만드는 웹툰&lt;가비지타임> 박병찬AI
 
 - contact : [spinspin bbs](https://spinspin.net/111ML_G/request) or sodamlee315@gmail.com
 - twitter : [@111ML_G](https://twitter.com/111ML_G)
+- prompt-guide : [link(ver.english)]([guide]how-to-set-gpt.md) , link(ver.kor)(예정중)
